@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quotes Example</title>
+</head>
+<body>
+    <h1>Famous Quotes</h1>
+    <h2>Long Quote</h2>
+    <blockquote>
+        "Do not go where the path may lead, go instead where there is no path and leave a trail. 
+        The great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude."
+        <footer>- Ralph Waldo Emerson</footer>
+    </blockquote>
+    <h2>Short Quote</h2>
+    <p>
+        "It does not matter how slowly you go as long as you do not stop." 
+        <br>– <cite>Confucius</cite>
+    </p>
+</body>
+</html>
